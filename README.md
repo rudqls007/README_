@@ -6,9 +6,9 @@ Developers looking to the future rather than the present
   
 Hi there 👋
 
-안녕하세요 저는 갬이입니다.
-바로 코린이입니다.
-저의 우상은 제임스 고슬링입니다.
+안녕하세요 저는 갬이입니다. </br>
+바로 바로 저는 코린이입니다. </br>
+그리고 저의 우상은 엄청난 아주신멋지신 제임스 고슬링입니다.</br>
 우리 모두 어렵고 힘든 이 코딩의 길을 헤쳐나가요 화이링
 </div> 
 <hr> 
