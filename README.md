@@ -44,12 +44,12 @@ Let's not be conceited!
 <hr> 
 <div align="center">
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coocoo08&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coocoo08&layout=compact&theme=dracula)](https://github.com/metleeha)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudqls007&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudqls007&layout=compact&theme=dracula)](https://github.com/metleeha)
 
   </div>
 <!--
-**coocoo08/coocoo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rudqls007/rudqls007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
